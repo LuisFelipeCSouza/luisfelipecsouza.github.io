@@ -41,7 +41,8 @@ author:
   impactstory      : # URL
   semantic         : # URL
   ssrn             : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Luis-Carneiro-De-Souza"
+  googlescholar    : "https://scholar.google.com.br/citations?user=RRCLiLoAAAAJ&hl=pt-BR"
   scopus           : # URL
   zotero           : # URL
 
