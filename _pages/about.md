@@ -17,8 +17,13 @@ Minha pesquisa foca em **co-simulação de redes elétricas inteligentes**, expl
 
 ### Formação Acadêmica
 
-- **Mestrado em Engenharia Elétrica** - UFC (em andamento)
-- **Graduação em Engenharia Elétrica** - UFC
+- **Mestrado em Engenharia Elétrica** - UFC (2025 - atual)
+- **Graduação em Engenharia Elétrica** - UFC (2020 - 2025)
+
+### Habilidades
+
+- **Linguagens:** Python
+- **Ferramentas:** OpenDSS
 
 ### Contato
 
