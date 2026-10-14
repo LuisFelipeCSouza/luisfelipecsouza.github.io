@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Educação
-* **Mestrado em Engenharia Elétrica** - Universidade Federal do Ceará (UFC), 2024-presente
-* **Graduação em Engenharia Elétrica** - Universidade Federal do Ceará (UFC)
+* **Mestrado em Engenharia Elétrica** - Universidade Federal do Ceará (UFC), 2025-atual
+* **Graduação em Engenharia Elétrica** - Universidade Federal do Ceará (UFC), 2020-2025
 
 ## Experiência
 * **Mestrando** - GREI/UFC
   * Pesquisa em co-simulação de redes elétricas inteligentes
 
 ## Habilidades
-* [Listar suas habilidades técnicas]
-* [Programação, softwares, etc.]
+* **Linguagens:** Python
+* **Ferramentas:** OpenDSS
 
 ## Publicações
   <ul>{% for post in site.publications reversed %}
