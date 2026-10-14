@@ -22,7 +22,7 @@ Minha pesquisa foca em **co-simulação de redes elétricas inteligentes**, expl
 
 ### Contato
 
-- **Email:** [luisfelipe@ufc.br](mailto:luisfelipe@ufc.br)
+- **Email:** [felipeluis@alu.ufc.br](mailto:felipeluis@alu.ufc.br)
 - **GitHub:** [luisfelipecsouza](https://github.com/luisfelipecsouza)
 - **ORCID:** [0009-0001-4401-8902](https://orcid.org/0009-0001-4401-8902)
 - **Lattes:** [CNPq](http://lattes.cnpq.br/0462571540472368)
